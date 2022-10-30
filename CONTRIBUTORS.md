@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [nikitawarrier](https://github.com/nikitawarrier)
+- Place: Washington, USA
+- Bio: AP CSP student
+- Github: [nikitawarrier ](https://github.com/nikitawarrier)
